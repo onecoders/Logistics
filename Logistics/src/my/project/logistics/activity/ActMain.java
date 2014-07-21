@@ -1,4 +1,4 @@
-package my.project.logistics;
+package my.project.logistics.activity;
 
 import android.os.Bundle;
 import android.app.Activity;
